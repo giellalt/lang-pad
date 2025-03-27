@@ -4,5 +4,7 @@
 
 LEXICON Nouns
 noun+N:noun    Cases   ;
+!!
+hado+N:hado Cases ;
 
 ! vim: set ft=xfst-lexc:
