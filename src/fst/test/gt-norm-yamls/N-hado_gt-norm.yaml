@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    Gen:   ../../src/generator-gt-norm.hfst
+    Morph: ../../src/analyser-gt-desc.hfst
+  xerox:
+    Gen:   ../../src/generator-gt-norm.xfst
+    Morph: ../../src/analyser-gt-desc.xfst
+    App: lookup
+
+Tests:
+#Chapman 1991: 25
+  N - hado: # partial paradigm
+    hado+N+Sg+Nom+PxSg1: kodihado # "my knife"
+    hado+N+Sg+Nom+PxSg2: kadahado # "your knife"
+    hado+N+Sg+Nom+PxSg3M: kidihado # "his knife"
+    hado+N+Sg+Nom+PxSg3F: kahado # "her knife"
+    hado+N+Sg+Nom+PxPl1: ʼakdihado # "our knife"
+    hado+N+Sg+Nom+PxPl2: ʼavakadihado # "your knife"
+    hado+N+Sg+Nom+PxPl3M: vakadihado #  "their knife"
+    hado+N+Sg+Nom+PxPl3F: vakadihado # "their knife"
+

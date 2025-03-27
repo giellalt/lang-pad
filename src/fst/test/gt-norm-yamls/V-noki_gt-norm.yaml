@@ -1,0 +1,21 @@
+Config:
+  hfst:
+    Gen:   ../../src/generator-gt-norm.hfst
+    Morph: ../../src/analyser-gt-desc.hfst
+  xerox:
+    Gen:   ../../src/generator-gt-norm.xfst
+    Morph: ../../src/analyser-gt-desc.xfst
+    App: lookup
+
+Tests:
+  V - noki:
+# Chapman, 1991: 24
+    noki+V+ScSg1: onokivini  #  "I see"
+    noki+V+ScSg2: ʼinokivini  #   "you see" (Sg)
+    noki+V+ScSg3M: binokivini  #   "he sees"
+    noki+V+ScSg3F: binokivini  #   "she sees"
+    noki+V+ScPl1: ʼanokivini  #   "we see"
+    noki+V+ScPl2: ʼavanokivini  #   "you see" (Pl)
+    noki+V+ScPl3M: vanokivini  #  "they see" (M)
+    noki+V+ScPl3F: vanokivini  #   "they see" (F)
+
