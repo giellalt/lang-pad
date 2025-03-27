@@ -3,13 +3,20 @@
 !! The Paumarí language nouns inflect in number and cases.
 
 LEXICON Cases
- +N+Sg+Nom:0   #     ;
- +N+Pl+Nom:i   #     ;
- +N+Sg+Acc:at  #     ;
- +N+Pl+Acc:iat #     ;
- +N+Sg+Loc:as  #     ;
- +N+Pl+Loc:ias #     ;
-         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
++Sg+Nom:   PX_TAGS  ;
+!         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
+
+
+LEXICON PX_TAGS
+@U.PN.SG1@+PxSg1:@U.PN.SG1@ # ;
+@U.PN.PL1@+Px:@U.PN.PL1@ # ;
+@U.PN.SG2@+PxSg2:@U.PN.SG2@ # ;
+@U.PN.PL2@+PxPl2:@U.PN.PL2@ # ;
+@U.PN.SG3M@+PxSg3M:@U.PN.SG3M@ # ;
+@U.PN.SG3F@+PxSg3F:@U.PN.SG3F@ # ;
+@U.PN.PL3M@+PxPl3M:@U.PN.PL3M@ # ;
+@U.PN.PL3F@+PxPl3F:@U.PN.PL3F@ # ;
+@D.PN@ # ;
 
 ! vim: set ft=xfst-lexc:
 
