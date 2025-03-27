@@ -18,11 +18,43 @@ The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
 
-The possession is marked as such:
+## Possessive tags
+* **+PxSg1** Singular First Person
+* **+PxSg2** Singular Second Person
+* **+PxSg3F** Singular Third Person Feminine
+* **+PxSg3M** Singular Third Person Male
+* **+PxPl1** Plural First Person
+* **+PxPl2** Plural Second Person
+* **+PxPl3F** Plural Third Person Feminine
+* **+PxPl3M** Plural Third Person Male
+
 The comparative forms are:
 Numerals are classified under:
+
 Verb moods are:
-Verb personal forms are:
+
+Pronoun personal forms are:
+
+## Verb person-number-gender
+
+* **+ScSg1** subject conjugation first person singular
+* **+ScSg2** subject conjugation second person singular
+* **+ScSg3F** subject conjugation third person singular Feminine
+* **+ScSg3M** subject conjugation third person singular Male
+* **+ScPl1** subject conjugation first person plural
+* **+ScPl2** subject conjugation second person plural
+* **+ScPl3F** subject conjugation third person plural Feminine
+* **+ScPl3M** subject conjugation third person plural Male
+
+* **+OcSg1** object conjugation first person singular
+* **+OcSg2** object conjugation second person singular
+* **+OcSg3F** object conjugation third person singular Feminine
+* **+OcSg3M** object conjugation third person singular Male
+* **+OcPl1** object conjugation first person plural
+* **+OcPl2** object conjugation second person plural
+* **+OcPl3F** object conjugation third person plural Feminine
+* **+OcPl3M** object conjugation third person plural Male
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -71,6 +103,10 @@ these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+
+Possessor indices
+
+Subject person indices
 
 The word forms in Paumarí language start from the lexeme roots of basic
 word classes, or optionally from prefixes:

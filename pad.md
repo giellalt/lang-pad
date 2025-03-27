@@ -60,6 +60,35 @@ The Paumarí language nouns inflect in number and cases.
 
 ---
 
+# src-fst-morphology-affixes-prefixes.lexc.md 
+
+Prefixes
+Prefixes in the Paumarí language are attatched to the left of other words, such as person markers
+
+hado+N+Sg+Nom+PxSg1: kodi-hado # "my knife"
+hado+N+Sg+Nom+PxSg2: kada-hado # "your knife"
+hado+N+Sg+Nom+PxSg3M: kidi-hado # "his knife"
+hado+N+Sg+Nom+PxSg3F: ka-hado # "her knife"
+hado+N+Sg+Nom+PxPl1: ʼakdi-hado # "our knife"
+hado+N+Sg+Nom+PxPl2: ʼavakadi-hado # "your knife"
+hado+N+Sg+Nom+PxPl3M: vakadi-hado #  "their knife"
+hado+N+Sg+Nom+PxPl3F: vakadi-hado # "their knife"
+
+noki+V+Prs+ScSg1: o-noki-vini  #  "I see"
+noki+V+Prs+ScSg2: 'i-noki-vini  #   "you see" (Sg)
+noki+V+Prs+ScSg3M: bi-noki-vini  #   "he sees"
+noki+V+Prs+ScSg3F: bi-noki-vini  #   "she sees"
+noki+V+Prs+ScPl1: 'a-noki-vini  #   "we see"
+noki+V+Prs+ScPl2: 'ava-noki-vini  #   "you see" (Pl)
+noki+V+Prs+ScPl3M: va-noki-vini  #  "they see" (M)
+noki+V+Prs+ScPl3F: va-noki-vini  #   "they see" (F)
+
+* * *
+
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/prefixes.lexc](https://github.com/giellalt/lang-pad/blob/main/src/fst/morphology/affixes/prefixes.lexc)</small>
+
+---
+
 # src-fst-morphology-affixes-propernouns.lexc.md 
 
 Proper noun inflection
@@ -148,11 +177,43 @@ The Usage extents are marked using following tags:
 
 The nominals are inflected in the following Case and Number
 
-The possession is marked as such:
+## Possessive tags
+* **+PxSg1** Singular First Person
+* **+PxSg2** Singular Second Person
+* **+PxSg3F** Singular Third Person Feminine
+* **+PxSg3M** Singular Third Person Male
+* **+PxPl1** Plural First Person
+* **+PxPl2** Plural Second Person
+* **+PxPl3F** Plural Third Person Feminine
+* **+PxPl3M** Plural Third Person Male
+
 The comparative forms are:
 Numerals are classified under:
+
 Verb moods are:
-Verb personal forms are:
+
+Pronoun personal forms are:
+
+## Verb person-number-gender
+
+* **+ScSg1** subject conjugation first person singular
+* **+ScSg2** subject conjugation second person singular
+* **+ScSg3F** subject conjugation third person singular Feminine
+* **+ScSg3M** subject conjugation third person singular Male
+* **+ScPl1** subject conjugation first person plural
+* **+ScPl2** subject conjugation second person plural
+* **+ScPl3F** subject conjugation third person plural Feminine
+* **+ScPl3M** subject conjugation third person plural Male
+
+* **+OcSg1** object conjugation first person singular
+* **+OcSg2** object conjugation second person singular
+* **+OcSg3F** object conjugation third person singular Feminine
+* **+OcSg3M** object conjugation third person singular Male
+* **+OcPl1** object conjugation first person plural
+* **+OcPl2** object conjugation second person plural
+* **+OcPl3F** object conjugation third person plural Feminine
+* **+OcPl3M** object conjugation third person plural Male
+
 Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
@@ -202,6 +263,10 @@ given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
 
+Possessor indices
+
+Subject person indices
+
 The word forms in Paumarí language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
 
@@ -241,17 +306,6 @@ Numerals in the Paumarí language describe a nuerical quantity.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-pad/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
-
----
-
-# src-fst-morphology-stems-prefixes.lexc.md 
-
-Prefixes
-Prefixes in the Paumarí language are attatched to the left of other words.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/morphology/stems/prefixes.lexc](https://github.com/giellalt/lang-pad/blob/main/src/fst/morphology/stems/prefixes.lexc)</small>
 
 ---
 
