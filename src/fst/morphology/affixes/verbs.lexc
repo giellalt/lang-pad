@@ -22,7 +22,17 @@ LEXICON Persons
 +V+Pl3:iet  #   ;
 
 LEXICON TAM_ 
-:%>vini # ;
++Ind+Prs:%>vini SC_PERSON_TAGS ;
+
+LEXICON SC_PERSON_TAGS 
+@U.SC.SG1@+ScSg1:@U.SC.SG1@ # ;
+@U.SC.SG2@+ScSg2:@U.SC.SG2@  # ; 
+@U.SC.SG3M@+ScSg3M:@U.SC.SG3M@ # ;
+@U.SC.SG3F@+ScSg3F:@U.SC.SG3F@ # ;
+@U.SC.PL1@+ScPl1:@U.SC.PL1@  # ;
+@U.SC.PL2@+ScPl2:@U.SC.PL2@  # ;
+@U.SC.PL3M@+ScPl3M:@U.SC.PL3M@ # ;
+@U.SC.PL3F@+ScPl3F:@U.SC.PL3F@ # ;
 
 ! vim: set ft=xfst-lexc:
 
