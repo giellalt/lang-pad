@@ -43,17 +43,48 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Sg +Du +Pl
  +Ess +Nom +Gen +Acc +Ill +Loc +Com 
 
-!! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
+!! ## Possessive tags
+ +PxSg1   !!≈ * **@CODE@** Singular First Person
+ +PxSg2   !!≈ * **@CODE@** Singular Second Person
+ +PxSg3F  !!≈ * **@CODE@** Singular Third Person Feminine
+ +PxSg3M  !!≈ * **@CODE@** Singular Third Person Male
+ +PxPl1   !!≈ * **@CODE@** Plural First Person
+ +PxPl2   !!≈ * **@CODE@** Plural Second Person
+ +PxPl3F  !!≈ * **@CODE@** Plural Third Person Feminine
+ +PxPl3M  !!≈ * **@CODE@** Plural Third Person Male
+
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
  +Ord 
+ 
 !! Verb moods are:
  +Ind +Prs +Prt +Pot +Cond +Imprt
-!! Verb personal forms are:
+
+!! Pronoun personal forms are:
  +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
+
+!! ## Verb person-number-gender
+
+ +ScSg1 !!≈ * **@CODE@** subject conjugation first person singular
+ +ScSg2 !!≈ * **@CODE@** subject conjugation second person singular
+ +ScSg3F !!≈ * **@CODE@** subject conjugation third person singular Feminine
+ +ScSg3M !!≈ * **@CODE@** subject conjugation third person singular Male
+ +ScPl1 !!≈ * **@CODE@** subject conjugation first person plural
+ +ScPl2 !!≈ * **@CODE@** subject conjugation second person plural
+ +ScPl3F !!≈ * **@CODE@** subject conjugation third person plural Feminine
+ +ScPl3M !!≈ * **@CODE@** subject conjugation third person plural Male
+
+ +OcSg1 !!≈ * **@CODE@** object conjugation first person singular
+ +OcSg2 !!≈ * **@CODE@** object conjugation second person singular
+ +OcSg3F !!≈ * **@CODE@** object conjugation third person singular Feminine
+ +OcSg3M !!≈ * **@CODE@** object conjugation third person singular Male
+ +OcPl1 !!≈ * **@CODE@** object conjugation first person plural
+ +OcPl2 !!≈ * **@CODE@** object conjugation second person plural
+ +OcPl3F !!≈ * **@CODE@** object conjugation third person plural Feminine
+ +OcPl3M !!≈ * **@CODE@** object conjugation third person plural Male
+
 !! Other verb forms are
  +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
@@ -138,10 +169,53 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
+!! Possessor indices
+@U.PN.SG1@
+@U.PN.PL1@
+@U.PN.SG2@
+@U.PN.PL2@
+@U.PN.SG3M@
+@U.PN.SG3F@
+@U.PN.PL3M@
+
+@P.PN.SG1@
+@P.PN.PL1@
+@P.PN.SG2@
+@P.PN.PL2@
+@P.PN.SG3M@
+@P.PN.SG3F@
+@P.PN.PL3M@
+@P.PN.PL3F@
+
+@D.PN@
+
+
+!! Subject person indices
+@U.SC.SG1@
+@U.SC.PL1@
+@U.SC.SG2@
+@U.SC.PL2@
+@U.SC.SG3M@
+@U.SC.SG3F@
+@U.SC.PL3M@
+@U.SC.PL3F@
+
+@P.SC.SG1@
+@P.SC.PL1@
+@P.SC.SG2@
+@P.SC.PL2@
+@P.SC.SG3M@
+@P.SC.SG3F@
+@P.SC.PL3M@
+@P.SC.PL3F@
+
+@D.SC@
+
 LEXICON Root
 !! The word forms in Paumarí language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
- Nouns       ;
+ Prefixes    ;
+! Nouns       ;
  Verbs       ;
  Adjectives  ;
  Pronouns    ;
