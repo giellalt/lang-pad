@@ -2,6 +2,16 @@
 !  ---------------
 !! The Paumarí language verbs inflect in persons.
 
+!! noki+V+ScSg1: o-noki-vini  #  "I see"
+!! noki+V+ScSg2: 'i-noki-vini  #   "you see" (Sg)
+!! noki+V+ScSg3M: bi-noki-vini  #   "he sees"
+!! noki+V+ScSg3F: bi-noki-vini  #   "she sees"
+!! noki+V+ScPl1: 'a-noki-vini  #   "we see"
+!! noki+V+ScPl2: 'ava-noki-vini  #   "you see" (Pl)
+!! noki+V+ScPl3M: va-noki-vini  #  "they see" (M)
+!! noki+V+ScPl3F: va-noki-vini  #   "they see" (F)
+
+
 LEXICON Persons
 +V+Inf:0    #   ;
 +V+Sg1:en   #   ;
@@ -10,6 +20,9 @@ LEXICON Persons
 +V+Pl1:ien  #   ;
 +V+Pl2:iet  #   ;
 +V+Pl3:iet  #   ;
+
+LEXICON TAM_ 
+:%>vini # ;
 
 ! vim: set ft=xfst-lexc:
 
