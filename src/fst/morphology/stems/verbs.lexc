@@ -2,7 +2,10 @@
 !  -----
 !! Verbs in the Paumarí language inflect for tense.
 
+!! prefixes express person
+!! the next continuation lexica give us TAM
 LEXICON Verbs
 verb    Persons   ;
+noki+V:noki TAM_ "see" ;
 
 ! vim: set ft=xfst-lexc:
