@@ -34,5 +34,6 @@ LEXICON SC_PERSON_TAGS
 @U.SC.PL3M@+ScPl3M:@U.SC.PL3M@ # ;
 @U.SC.PL3F@+ScPl3F:@U.SC.PL3F@ # ;
 
+
 ! vim: set ft=xfst-lexc:
 
