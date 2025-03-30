@@ -106,6 +106,8 @@ given the proper use of these flags.
 
 Possessor indices
 
+finite verb negation
+
 Subject person indices
 
 The word forms in Paumarí language start from the lexeme roots of basic
