@@ -4,6 +4,7 @@
 
 LEXICON Cases
 +Sg+Nom:   PX_TAGS  ;
++Sg+Erg:%>a   PX_TAGS  ;
 !         #:0   Nouns ; ! Normally going via a R lexicon adding compound tags.
 
 
