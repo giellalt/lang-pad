@@ -5,6 +5,6 @@
 LEXICON Nouns
 noun+N:noun    Cases   ;
 !!
-hado+N:hado Cases ;
-
+hado+N:hado Cases "knife/faca" ;
+jomahi+N:jomahi Cases "dog;jaguar/cachorro;onça" ;
 ! vim: set ft=xfst-lexc:
