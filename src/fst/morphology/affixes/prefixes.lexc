@@ -3,10 +3,12 @@
 !! Prefixes in the Paumarí language are attatched to the left of other words, such as person markers
 
 LEXICON Prefixes
- PERSON_PREFIXES ;
+ PX_PREFIXES ;
+@U.VNEG.YES@:@U.VNEG.YES@ni-%< SC_PREFIXES ;
+@U.VNEG.NO@:@U.VNEG.NO@ SC_PREFIXES ;
 
 
-LEXICON PERSON_PREFIXES
+LEXICON PX_PREFIXES
 !! hado+N+Sg+Nom+PxSg1: kodi-hado # "my knife"
 !! hado+N+Sg+Nom+PxSg2: kada-hado # "your knife"
 !! hado+N+Sg+Nom+PxSg3M: kidi-hado # "his knife"
@@ -24,7 +26,9 @@ LEXICON PERSON_PREFIXES
 @P.PN.SG3F@:@P.PN.SG3F@ka%< Nouns ;
 @P.PN.PL3M@:@P.PN.PL3M@vakadi%< Nouns ;
 @P.PN.PL3F@:@P.PN.PL3F@vakadi%< Nouns ;
+@D.PN@ Nouns ; !CHECKME
 
+LEXICON SC_PREFIXES
 !! noki+V+Prs+ScSg1: o-noki-vini  #  "I see"
 !! noki+V+Prs+ScSg2: 'i-noki-vini  #   "you see" (Sg)
 !! noki+V+Prs+ScSg3M: bi-noki-vini  #   "he sees"
@@ -42,7 +46,7 @@ LEXICON PERSON_PREFIXES
 @P.SC.SG3F@:@P.SC.SG3F@bi%< Verbs ;
 @P.SC.PL3M@:@P.SC.PL3M@va%< Verbs ;
 @P.SC.PL3F@:@P.SC.PL3F@va%< Verbs ;
-
+@D.SC@ Verbs ; !CHECKME
 
 
 
