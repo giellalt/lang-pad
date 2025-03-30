@@ -7,5 +7,10 @@
 LEXICON Verbs
 verb    Persons   ;
 noki+V:noki TAM_ "see" ;
+nofi+V:nofi TAM_ "want" ;
+sokoaki+V:soko»a»ki TAM_ "wash IV" ;
+bararihi+V:ba»rari»hi TAM_ "put down VT" ;
+
+
 
 ! vim: set ft=xfst-lexc:
