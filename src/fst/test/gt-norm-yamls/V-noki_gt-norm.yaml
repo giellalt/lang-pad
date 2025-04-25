@@ -10,12 +10,12 @@ Config:
 Tests:
   V - noki:
 # Chapman, 1991: 24
-    noki+V+ScSg1: onokivini  #  "I see"
-    noki+V+ScSg2: ʼinokivini  #   "you see" (Sg)
-    noki+V+ScSg3M: binokivini  #   "he sees"
-    noki+V+ScSg3F: binokivini  #   "she sees"
-    noki+V+ScPl1: ʼanokivini  #   "we see"
-    noki+V+ScPl2: ʼavanokivini  #   "you see" (Pl)
-    noki+V+ScPl3M: vanokivini  #  "they see" (M)
-    noki+V+ScPl3F: vanokivini  #   "they see" (F)
+    noki+V+Ind+Prs+ScSg1: onokivini  #  "I see"
+    noki+V+Ind+Prs+ScSg2: ʼinokivini  #   "you see" (Sg)
+    noki+V+Ind+Prs+ScSg3M: binokivini  #   "he sees"
+    noki+V+Ind+Prs+ScSg3F: binokivini  #   "she sees"
+    noki+V+Ind+Prs+ScPl1: ʼanokivini  #   "we see"
+    noki+V+Ind+Prs+ScPl2: ʼavanokivini  #   "you see" (Pl)
+    noki+V+Ind+Prs+ScPl3M: vanokivini  #  "they see" (M)
+    noki+V+Ind+Prs+ScPl3F: vanokivini  #   "they see" (F)
 
