@@ -39,14 +39,24 @@ LEXICON SC_PREFIXES
 !! noki+V+Prs+ScPl3F: va-noki-vini  #   "they see" (F)
 
 @P.SC.SG1@:@P.SC.SG1@o%< Verbs ;
-@P.SC.PL1@:@P.SC.PL1@ʼa%< Verbs ;
 @P.SC.SG2@:@P.SC.SG2@ʼi%< Verbs ;
-@P.SC.PL2@:@P.SC.PL2@ʼava%< Verbs ;
 @P.SC.SG3M@:@P.SC.SG3M@bi%< Verbs ;
 @P.SC.SG3F@:@P.SC.SG3F@bi%< Verbs ;
+@P.SC.PL1@:@P.SC.PL1@ʼa%< Verbs ;
+@P.SC.PL2@:@P.SC.PL2@ʼava%< Verbs ;
 @P.SC.PL3M@:@P.SC.PL3M@va%< Verbs ;
 @P.SC.PL3F@:@P.SC.PL3F@va%< Verbs ;
 @D.SC@ Verbs ; !CHECKME
+
+@U.IVSC.SG1@:@U.IVSC.SG1@ʼo%< Verbs ;
+@U.IVSC.SG2@:@U.IVSC.SG2@ʼi%< Verbs ;
+@U.IVSC.SG3M@:@U.IVSC.SG3M@ Verbs ;
+@U.IVSC.SG3F@:@U.IVSC.SG3F@ Verbs ;
+@U.IVSC.PL1@:@U.IVSC.PL1@ʼa%< Verbs ;
+@U.IVSC.PL2@:@U.IVSC.PL2@ʼava%< Verbs ;
+@U.IVSC.PL3@:@U.IVSC.PL3@va%< Verbs ;
+!@U.IVSC.PL3F@:@U.IVSC.PL3F@va%< Verbs ;
+@D.IVSC@ Verbs ; !CHECKME
 
 
 

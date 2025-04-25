@@ -21,6 +21,17 @@ LEXICON Persons
 +V+Pl2:iet  #   ;
 +V+Pl3:iet  #   ;
 
+LEXICON IV_TAM_ 
+@R.IVSC.SG1@+Ind+Prs+ScSg1:@R.IVSC.SG1@%>na VERBAL_NEG ;
+@R.IVSC.SG2@+Ind+Prs+ScSg2:@R.IVSC.SG2@%>ni VERBAL_NEG ; 
+@R.IVSC.SG3M@+Ind+Prs+ScSg3M:@R.IVSC.SG3M@%>na VERBAL_NEG ;
+@R.IVSC.SG3F@+Ind+Prs+ScSg3F:@R.IVSC.SG3F@%>ni VERBAL_NEG ;
+@R.IVSC.PL1@+Ind+Prs+ScPl1:@R.IVSC.PL1@%>na VERBAL_NEG ;
+@R.IVSC.PL2@+Ind+Prs+ScPl2:@R.IVSC.PL2@%>ni VERBAL_NEG ;
+@R.IVSC.PL3@+Ind+Prs+ScPl3:@R.IVSC.PL3@%>na VERBAL_NEG ;
+!@R.IVSC.PL3F@+Ind+Prs+ScPl3F:@R.IVSC.PL3F@ VERBAL_NEG ;
+
+
 LEXICON TAM_ 
 +Ind+Prs:%>vini SC_PERSON_TAGS ;
 +Ind+Fut:%>ki SC_PERSON_TAGS ;

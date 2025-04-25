@@ -80,6 +80,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +ScSg3M !!≈ * **@CODE@** subject conjugation third person singular Male
  +ScPl1 !!≈ * **@CODE@** subject conjugation first person plural
  +ScPl2 !!≈ * **@CODE@** subject conjugation second person plural
+ +ScPl3 !!≈ * **@CODE@** subject conjugation third person plural 
  +ScPl3F !!≈ * **@CODE@** subject conjugation third person plural Feminine
  +ScPl3M !!≈ * **@CODE@** subject conjugation third person plural Male
 
@@ -220,6 +221,27 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 @P.SC.PL3F@
 
 @D.SC@
+
+!! Intransitive Subject person indices
+@U.IVSC.SG1@
+@U.IVSC.SG2@
+@U.IVSC.SG3M@
+@U.IVSC.SG3F@
+@U.IVSC.PL1@
+@U.IVSC.PL2@
+@U.IVSC.PL3@
+!@U.IVSC.PL3F@
+
+@R.IVSC.SG1@
+@R.IVSC.SG2@
+@R.IVSC.SG3M@
+@R.IVSC.SG3F@
+@R.IVSC.PL1@
+@R.IVSC.PL2@
+@R.IVSC.PL3@
+!@R.IVSC.PL3F@
+
+@D.IVSC@
 
 LEXICON Root
 !! The word forms in Paumarí language start from the lexeme roots of basic
