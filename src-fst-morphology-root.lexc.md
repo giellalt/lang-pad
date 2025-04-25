@@ -43,6 +43,7 @@ Pronoun personal forms are:
 * **+ScSg3M** subject conjugation third person singular Male
 * **+ScPl1** subject conjugation first person plural
 * **+ScPl2** subject conjugation second person plural
+* **+ScPl3** subject conjugation third person plural 
 * **+ScPl3F** subject conjugation third person plural Feminine
 * **+ScPl3M** subject conjugation third person plural Male
 
@@ -109,6 +110,8 @@ Possessor indices
 finite verb negation
 
 Subject person indices
+
+Intransitive Subject person indices
 
 The word forms in Paumarí language start from the lexeme roots of basic
 word classes, or optionally from prefixes:
