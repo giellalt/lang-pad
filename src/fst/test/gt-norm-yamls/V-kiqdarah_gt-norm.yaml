@@ -1,0 +1,22 @@
+Config:
+  hfst:
+    Gen:   ../../src/generator-gt-norm.hfst
+    Morph: ../../src/analyser-gt-desc.hfst
+  xerox:
+    Gen:   ../../src/generator-gt-norm.xfst
+    Morph: ../../src/analyser-gt-desc.xfst
+    App: lookup
+
+Tests:
+  V - kiʼdaraha-ki:
+# Chapman, 1991: 24
+!!!correr 	kiʼdaraha-ki 	"correr"
+    kiʼdaraha+V+Ind+Prs+ScSg1: ʼokiʼdarahana #ʼo-kiʼdaraha-na # “I run”
+    kiʼdaraha+V+Ind+Prs+ScSg2: ʼikiʼdarahani #	ʼi-kiʼdaraha-ni # “you run” 
+    kiʼdaraha+V+Ind+Prs+ScSg3M: kiʼdarahana #	kiʼdaraha-na  # “he runs”
+    kiʼdaraha+V+Ind+Prs+ScSg3F: kiʼdarahani # 	kiʼdaraha-ni  # “she runs”
+    kiʼdaraha+V+Ind+Prs+ScPl1: ʼakiʼdarahana #	ʼa-kiʼdaraha-na # “we run”
+    kiʼdaraha+V+Ind+Prs+ScPl2: ʼavakiʼdarahani #	ʼava-kiʼdaraha-ni # “you run”
+    kiʼdaraha+V+Ind+Prs+ScPl3: vakiʼdarahana # va-kiʼdaraha-na # “they run”
+
+
