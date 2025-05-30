@@ -30,6 +30,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +N +A +Adv +V                                 !!≈
  +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num !!≈
 
+!! Nouns come in two types analogous to gender, i.e., marking agreement on verbs and adjectives. CHECKME 2025-05-30 Rian
++TypeKa
++TypeZero
+
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
@@ -176,6 +180,10 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! given the proper use of these flags.
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
+
+!! Noun type, ka vs zero
+@U.NounTypeKA.YES@
+@U.NounTypeKA.NO@
 
 !! Possessor indices
 @U.PossPx.SG1@
