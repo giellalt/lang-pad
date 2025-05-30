@@ -189,6 +189,8 @@ language are presented in this system in terms of the following symbols.
 
 The parts-of-speech are:
 
+Nouns come in two types analogous to gender, i.e., marking agreement on verbs and adjectives. CHECKME 2025-05-30 Rian
+
 The parts of speech are further split up into:
 
 The Usage extents are marked using following tags:
@@ -283,6 +285,8 @@ these flags. There exists a ready-made regex that will do the actual down-casing
 given the proper use of these flags.
 |  @U.Cap.Obl@ | Allowing downcasing of derived names: deatnulasj.
 |  @U.Cap.Opt@ | Allowing downcasing of derived names: deatnulasj.
+
+Noun type, ka vs zero
 
 Possessor indices
 
