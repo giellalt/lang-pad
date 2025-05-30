@@ -28,6 +28,10 @@ LEXICON PX_PREFIXES
 @U.PossPx.PL3F@:@U.PossPx.PL3F@vakadi%< Nouns ;
  Nouns ; !This will not take possessive markers
 
+!LEXICON ALL_Nouns Actually, these will be needed for verbs and adjectives, NOT nouns
+!@U.NounTypeKA.NO@ Nouns ;
+!@U.NounTypeKA.YES@:@U.NounTypeKA.YES@ka%< ka_Nouns ;
+
 LEXICON SC_PREFIXES
 !! noki+V+Prs+ScSg1: o-noki-vini  #  "I see"
 !! noki+V+Prs+ScSg2: 'i-noki-vini  #   "you see" (Sg)
