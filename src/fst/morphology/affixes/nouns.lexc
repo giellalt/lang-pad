@@ -2,6 +2,10 @@
 !  ---------------
 !! The Paumarí language nouns inflect in number and cases.
 
+LEXICON KA_YES
++TypeKa: Cases ;
+LEXICON KA_NO
++TypeZero: Cases ;
 LEXICON Cases
 +Sg+Nom:   PX_TAGS  ;
 +Sg+Erg:%>a   PX_TAGS  ;
