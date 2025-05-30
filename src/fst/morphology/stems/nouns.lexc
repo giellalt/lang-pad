@@ -7,4 +7,9 @@ noun+N:noun    Cases   ;
 !!
 hado+N:hado Cases "knife/faca" ;
 jomahi+N:jomahi Cases "dog;jaguar/cachorro;onça" ;
+!! new words below
+
+
+
+
 ! vim: set ft=xfst-lexc:
