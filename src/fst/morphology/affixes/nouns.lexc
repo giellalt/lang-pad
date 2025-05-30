@@ -9,15 +9,15 @@ LEXICON Cases
 
 
 LEXICON PX_TAGS
-@U.PN.SG1@+PxSg1:@U.PN.SG1@ # ;
-@U.PN.PL1@+Px:@U.PN.PL1@ # ;
-@U.PN.SG2@+PxSg2:@U.PN.SG2@ # ;
-@U.PN.PL2@+PxPl2:@U.PN.PL2@ # ;
-@U.PN.SG3M@+PxSg3M:@U.PN.SG3M@ # ;
-@U.PN.SG3F@+PxSg3F:@U.PN.SG3F@ # ;
-@U.PN.PL3M@+PxPl3M:@U.PN.PL3M@ # ;
-@U.PN.PL3F@+PxPl3F:@U.PN.PL3F@ # ;
-@D.PN@ # ;
+@R.PossPx.SG1@+PxSg1:@R.PossPx.SG1@ # ;
+@R.PossPx.PL1@+Px:@R.PossPx.PL1@ # ;
+@R.PossPx.SG2@+PxSg2:@R.PossPx.SG2@ # ;
+@R.PossPx.PL2@+PxPl2:@R.PossPx.PL2@ # ;
+@R.PossPx.SG3M@+PxSg3M:@R.PossPx.SG3M@ # ;
+@R.PossPx.SG3F@+PxSg3F:@R.PossPx.SG3F@ # ;
+@R.PossPx.PL3M@+PxPl3M:@R.PossPx.PL3M@ # ;
+@R.PossPx.PL3F@+PxPl3F:@R.PossPx.PL3F@ # ;
+@D.PossPx@ # ;
 
 ! vim: set ft=xfst-lexc:
 

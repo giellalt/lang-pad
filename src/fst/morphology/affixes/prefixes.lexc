@@ -18,15 +18,15 @@ LEXICON PX_PREFIXES
 !! hado+N+Sg+Nom+PxPl3M: vakadi-hado #  "their knife"
 !! hado+N+Sg+Nom+PxPl3F: vakadi-hado # "their knife"
 
-@P.PN.SG1@:@P.PN.SG1@kodi%< Nouns ;
-@P.PN.PL1@:@P.PN.PL1@ʼakdi%< Nouns ;
-@P.PN.SG2@:@P.PN.SG2@kada%< Nouns ;
-@P.PN.PL2@:@P.PN.PL2@ʼavakadi%< Nouns ;
-@P.PN.SG3M@:@P.PN.SG3M@kidi%< Nouns ;
-@P.PN.SG3F@:@P.PN.SG3F@ka%< Nouns ;
-@P.PN.PL3M@:@P.PN.PL3M@vakadi%< Nouns ;
-@P.PN.PL3F@:@P.PN.PL3F@vakadi%< Nouns ;
-@D.PN@ Nouns ; !CHECKME
+@U.PossPx.SG1@:@U.PossPx.SG1@kodi%< Nouns ;
+@U.PossPx.PL1@:@U.PossPx.PL1@ʼakdi%< Nouns ;
+@U.PossPx.SG2@:@U.PossPx.SG2@kada%< Nouns ;
+@U.PossPx.PL2@:@U.PossPx.PL2@ʼavakadi%< Nouns ;
+@U.PossPx.SG3M@:@U.PossPx.SG3M@kidi%< Nouns ;
+@U.PossPx.SG3F@:@U.PossPx.SG3F@ka%< Nouns ;
+@U.PossPx.PL3M@:@U.PossPx.PL3M@vakadi%< Nouns ;
+@U.PossPx.PL3F@:@U.PossPx.PL3F@vakadi%< Nouns ;
+ Nouns ; !This will not take possessive markers
 
 LEXICON SC_PREFIXES
 !! noki+V+Prs+ScSg1: o-noki-vini  #  "I see"

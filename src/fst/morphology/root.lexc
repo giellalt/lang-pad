@@ -178,24 +178,24 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
 !! Possessor indices
-@U.PN.SG1@
-@U.PN.PL1@
-@U.PN.SG2@
-@U.PN.PL2@
-@U.PN.SG3M@
-@U.PN.SG3F@
-@U.PN.PL3M@
+@U.PossPx.SG1@
+@U.PossPx.PL1@
+@U.PossPx.SG2@
+@U.PossPx.PL2@
+@U.PossPx.SG3M@
+@U.PossPx.SG3F@
+@U.PossPx.PL3M@
+! Requires
+@R.PossPx.SG1@
+@R.PossPx.PL1@
+@R.PossPx.SG2@
+@R.PossPx.PL2@
+@R.PossPx.SG3M@
+@R.PossPx.SG3F@
+@R.PossPx.PL3M@
+@R.PossPx.PL3F@
 
-@P.PN.SG1@
-@P.PN.PL1@
-@P.PN.SG2@
-@P.PN.PL2@
-@P.PN.SG3M@
-@P.PN.SG3F@
-@P.PN.PL3M@
-@P.PN.PL3F@
-
-@D.PN@
+@D.PossPx@
 
 !! finite verb negation
 @U.VNEG.YES@
