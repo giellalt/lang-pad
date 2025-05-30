@@ -10,7 +10,7 @@ LEXICON Cases
 
 LEXICON PX_TAGS
 @R.PossPx.SG1@+PxSg1:@R.PossPx.SG1@ # ;
-@R.PossPx.PL1@+Px:@R.PossPx.PL1@ # ;
+@R.PossPx.PL1@+PxPl1:@R.PossPx.PL1@ # ;
 @R.PossPx.SG2@+PxSg2:@R.PossPx.SG2@ # ;
 @R.PossPx.PL2@+PxPl2:@R.PossPx.PL2@ # ;
 @R.PossPx.SG3M@+PxSg3M:@R.PossPx.SG3M@ # ;
