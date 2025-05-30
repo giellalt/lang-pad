@@ -5,11 +5,14 @@
 LEXICON Nouns
 noun+N:noun    Cases   ;
 !!
-hado+N:hado Cases "knife/faca" ;
-jomahi+N:jomahi Cases "dog;jaguar/cachorro;onça" ;
+hado+N:hado KA_NO "knife/faca" ;
+jomahi+N:jomahi KA_NO "dog;jaguar/cachorro;onça" ;
 !! new words below
 
-
+! ka nouns
+!okanofiki oni vanami kakaraho
+! ‘I want the big paddle’
+vanami+N:vanami KA_YES "paddle/" ;
 
 
 ! vim: set ft=xfst-lexc:
