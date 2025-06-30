@@ -67,7 +67,8 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +Ord 
  
 !! Verb moods are:
- +Ind
+ +Ind  !!≈ * **@CODE@** Indicative / Indicativo
+ +Hor  !!≈ * **@CODE@**	Hortative / Hortativo
  +Pot +Cond +Imprt
  +Prs
  +Prt
