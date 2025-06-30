@@ -35,6 +35,7 @@ LEXICON IV_TAM_
 LEXICON TAM_ 
 +Ind+Prs:%>vini SC_PERSON_TAGS ;
 +Ind+Fut:%>ki SC_PERSON_TAGS ;
++Hor+ScPl1:%>va # ; !FIXME 2025-06-30 see yaml V-kiqdarah_gt-norm.yaml ʼajoiva # ʼa-joi-va
 
 LEXICON SC_PERSON_TAGS 
 @U.SC.SG1@+ScSg1:@U.SC.SG1@ VERBAL_NEG ;
