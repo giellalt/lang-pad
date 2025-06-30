@@ -6,12 +6,13 @@
 !! the next continuation lexica give us TAM
 LEXICON Verbs
 verb    Persons   ;
+abiniki+V:abini IV_TAM_ "die/morrer" ;
+adahaki+V:adaha IV_TAM_ "travel, walk/viajar, andar" ;
+joiki+V:joi IV_TAM_ "return/voltar" ;
 kiʼdarahaki+V:kiʼdaraha IV_TAM_ "run/correr" ;
 kaikahiki+V:kaikahi IV_TAM_ "arrive/chegar" ;
 vadiki+V:vadi IV_TAM_ "sleep/dormir" ;
-abiniki+V:abini IV_TAM_ "die/morrer" ;
 vithiki+V:vithi IV_TAM_ "sit/sentar" ;
-adahaki+V:adaha IV_TAM_ "travel, walk/viajar, andar" ;
 
 noki+V:noki TAM_ "see" ;
 nofi+V:nofi TAM_ "want" ;
