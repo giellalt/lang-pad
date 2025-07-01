@@ -34,6 +34,8 @@ The comparative forms are:
 Numerals are classified under:
 
 Verb moods are:
+* **+Ind** Indicative / Indicativo
+* **+Hor**	Hortative / Hortativo
 
 Pronoun personal forms are:
 
