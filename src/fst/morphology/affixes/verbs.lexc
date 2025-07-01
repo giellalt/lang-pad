@@ -22,20 +22,21 @@ LEXICON Persons
 +V+Pl3:iet  #   ;
 
 LEXICON IV_TAM_ 
-@R.IVSC.SG1@+Ind+Prs+ScSg1:@R.IVSC.SG1@%>na VERBAL_NEG ;
-@R.IVSC.SG2@+Ind+Prs+ScSg2:@R.IVSC.SG2@%>ni VERBAL_NEG ; 
-@R.IVSC.SG3M@+Ind+Prs+ScSg3M:@R.IVSC.SG3M@%>na VERBAL_NEG ;
-@R.IVSC.SG3F@+Ind+Prs+ScSg3F:@R.IVSC.SG3F@%>ni VERBAL_NEG ;
-@R.IVSC.PL1@+Ind+Prs+ScPl1:@R.IVSC.PL1@%>na VERBAL_NEG ;
-@R.IVSC.PL2@+Ind+Prs+ScPl2:@R.IVSC.PL2@%>ni VERBAL_NEG ;
-@R.IVSC.PL3@+Ind+Prs+ScPl3:@R.IVSC.PL3@%>na VERBAL_NEG ;
-!@R.IVSC.PL3F@+Ind+Prs+ScPl3F:@R.IVSC.PL3F@ VERBAL_NEG ;
+@U.SC.SG1@+Ind+Prs+ScSg1:@U.SC.SG1@%>na VERBAL_NEG ;
+@U.SC.SG2@+Ind+Prs+ScSg2:@U.SC.SG2@%>ni VERBAL_NEG ; 
+@U.SC.SG3M@+Ind+Prs+ScSg3M:@U.SC.SG3M@%>na VERBAL_NEG ;
+@U.SC.SG3F@+Ind+Prs+ScSg3F:@U.SC.SG3F@%>ni VERBAL_NEG ;
+@U.SC.PL1@+Ind+Prs+ScPl1:@U.SC.PL1@%>na VERBAL_NEG ;
+@U.SC.PL2@+Ind+Prs+ScPl2:@U.SC.PL2@%>ni VERBAL_NEG ;
+@U.SC.PL3@+Ind+Prs+ScPl3:@U.SC.PL3@%>na VERBAL_NEG ;
+!@U.SC.PL3F@+Ind+Prs+ScPl3F:@U.SC.PL3F@ VERBAL_NEG ;
+@U.SC.PL1@+Hor+ScPl1:@U.SC.PL1@%>va VERBAL_NEG ; !FIXME 2025-06-30 see yaml V-kiqdarah_gt-norm.yaml ʼajoiva # ʼa-joi-va
 
 
 LEXICON TAM_ 
 +Ind+Prs:%>vini SC_PERSON_TAGS ;
 +Ind+Fut:%>ki SC_PERSON_TAGS ;
-+Hor+ScPl1:%>va # ; !FIXME 2025-06-30 see yaml V-kiqdarah_gt-norm.yaml ʼajoiva # ʼa-joi-va
++Hor:%>va SC_PERSON_TAGS ; !FIXME 2025-06-30 see yaml V-kiqdarah_gt-norm.yaml ʼajoiva # ʼa-joi-va
 
 LEXICON SC_PERSON_TAGS 
 @U.SC.SG1@+ScSg1:@U.SC.SG1@ VERBAL_NEG ;
