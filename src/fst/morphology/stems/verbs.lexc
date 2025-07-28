@@ -18,7 +18,7 @@ noki+V:noki TAM_ "see" ;
 nofi+V:nofi TAM_ "want" ;
 sokoaki+V:soko»a»ki TAM_ "wash IV" ;
 bararihi+V:ba»rari»hi TAM_ "put down VT" ;
-
+ni+V+Aux:ni IV_TAM_ "auxilliary" ;
 
 
 ! vim: set ft=xfst-lexc:

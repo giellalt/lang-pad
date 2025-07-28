@@ -107,7 +107,9 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
 !! Special symbols are classified with:
 +CLB +PUNCT +LEFT +RIGHT
 !! The verbs are syntactically split according to transitivity:
- +TV +IV
+ +BV !!≈ * **@CODE@** bitransitive / bitransitivo
+ +IV !!≈ * **@CODE@** 
+ +TV !!≈ * **@CODE@**  
 !! Special multiword units are analysed with:
  +Multi
 !! Non-dictionary words can be recognised with:

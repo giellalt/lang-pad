@@ -19,3 +19,40 @@ Tests:
     noki+V+Ind+Prs+ScPl3M: vanokivini  #  "they see" (M)
     noki+V+Ind+Prs+ScPl3F: vanokivini  #   "they see" (F)
 
+# Chapman, 1991: 39
+#1. Intransitivo aux
+# vara ni-
+# "conversar" aux.- «vara ʼonina» ‘eu converso’
+    ni+V+Aux+IV+Ind+Prs+ScSg1: ʼonina # 
+    ni+V+Aux+IV+Ind+Prs+ScSg2: ʼinini # 
+    ni+V+Aux+IV+Ind+Prs+ScSg3F: nini  # 
+    ni+V+Aux+IV+Ind+Prs+ScSg3M: nina  # 
+
+    ni+V+Aux+IV+Ind+Prs+ScPl1: ʼakhanina # 
+    ni+V+Aux+IV+Ind+Prs+ScPl2: ʼavakhanini # 
+    ni+V+Aux+IV+Ind+Prs+ScPl3F: vakhanina  # 
+    ni+V+Aux+IV+Ind+Prs+ScPl3M: vakhanina  # 
+
+#2. Transitivo
+#vara va-ni-'a
+#"conversar" ASSOC.-aux.-TRAN. «vara ʼovaniʼavini» ‘eu converso sobre’
+    vaniʼa+V+TV+Aux+Ind+Prs+ScSg1: ʼovaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScSg2: ʼivaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScSg3F: bivaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScSg3M: bivaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScPl1: ʼavaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScPl2: ʼavavaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScPl3F: vavaniʼavini
+    vaniʼa+V+TV+Aux+Ind+Prs+ScPl3M: vavaniʼavini
+
+#3. Bitransitivo
+#vara ni-'a
+#"conversar" aux.-TRAN. «vara ʼoniʼavini» ‘eu converso com’
+    niʼa+V+Aux+BV+Ind+Prs+ScSg1: ʼoniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScSg2: ʼiniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScSg3F: biniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScSg3M: biniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScPl1: ʼaniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScPl2: ʼavaniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScPl3F: vaniʼavini
+    niʼa+V+Aux+BV+Ind+Prs+ScPl3M: vaniʼavini
