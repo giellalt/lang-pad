@@ -244,6 +244,9 @@ Other verb forms are
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
 The verbs are syntactically split according to transitivity:
+* **+BV** bitransitive / bitransitivo
+* **+IV** 
+* **+TV**  
 Special multiword units are analysed with:
 Non-dictionary words can be recognised with:
 
