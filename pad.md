@@ -243,6 +243,11 @@ Other verb forms are
 
 * +Symbol = independent symbols in the text stream, like £, €, ©
 Special symbols are classified with:
+
+The nouns are given with gender
+* **+Fem** feminine nouns usually require a correlating demonstrative ʼida
+* **+Msc** masculine nouns usually require a correlating demonstrative ada
+
 The verbs are syntactically split according to transitivity:
 * **+BV** bitransitive / bitransitivo
 * **+IV** 
