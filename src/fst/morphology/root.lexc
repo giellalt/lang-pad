@@ -105,7 +105,7 @@ Multichar_Symbols  !!≈ # Definitions for @CODE@
  +ABBR +ACR 
 +Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
 !! Special symbols are classified with:
-+CLB +PUNCT +LEFT +RIGHT
++CLB +PUNCT +LEFT +RIGHT +MIDDLE
 
 !! The nouns are given with gender
  +Fem       !!≈ * **@CODE@** feminine nouns usually require a correlating demonstrative ʼida
