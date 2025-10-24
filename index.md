@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pad%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-pad)](https://github.com/giellalt/lang-pad/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-pad)](https://github.com/giellalt/lang-pad/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pad/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pad/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-pad?label=CI)](https://builds.giellalt.org/pipelines/lang-pad/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/paum1247)
 
 This page documents the work on the **Paumarí language model**. 
 
