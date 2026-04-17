@@ -1,12 +1,12 @@
 The Paumarí morphology and tools
 ==========================================
 
-[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pad%2Fgh-pages%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
-![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pad%2Fgh-pages%2Fbadgedata%2Ffst-lemmacount.json)
+[![Maturity](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pad%2Fmain%2Fdocs%2Fbadgedata%2Ffst-maturity.json)](https://giellalt.github.io/MaturityClassification.html)
+![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-pad%2Fmain%2Fdocs%2Fbadgedata%2Ffst-lemmacount.json)
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-pad)](https://github.com/giellalt/lang-pad/issues)
 [![License](https://img.shields.io/github/license/giellalt/lang-pad)](https://github.com/giellalt/lang-pad/blob/main/LICENSE)
-[![Doc Build Status](https://github.com/giellalt/lang-pad/workflows/Docs/badge.svg)](https://github.com/giellalt/lang-pad/actions)
-[![CI/CD Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pad/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-pad/main/latest)
+[![Doc build](https://img.shields.io/github/actions/workflow/status/giellalt/lang-pad/docs.yml?logo=github&label=DocCI)](https://github.com/giellalt/lang-pad/actions/workflows/docs.yml)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-pad?logo=buildkite&label=CoreCI)](https://builds.giellalt.org/pipelines/lang-pad/builds/latest)
 
 Download nightly / CI/CD installation packages for testing (contains the core zhfst file(s)):
 
